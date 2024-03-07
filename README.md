@@ -36,11 +36,11 @@ Axios
 
 ## Login page
 
-<img src="/login.png" alt="ttd">
+<img src="img/login.png" alt="ttd">
 
 ## Register Page
 
-<img src="/register" alt="ttd">
+<img src="img/register" alt="ttd">
 
 ## Choose Profile Photo
 
@@ -48,8 +48,8 @@ Axios
 
 ## Welcome Page
 
-<img src="/welcome.png" alt="ttd">
+<img src="img/welcome.png" alt="ttd">
 
 ## Chat Page
 
-<img src="/chat.png" alt="ttd">
+<img src="img/chat.png" alt="ttd">
