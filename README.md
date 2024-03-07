@@ -36,11 +36,11 @@ Axios
 
 ## Login page
 
-![登录](https://gitee.com/nwafu-ggboy/online_chat/raw/master/img/%E7%99%BB%E5%BD%95.png)
+![登录](login.png)
 
 ## Register Page
 
-![注册](https://gitee.com/nwafu-ggboy/online_chat/raw/master/img/%E6%B3%A8%E5%86%8C.png)
+![注册](register.png)
 
 ## Choose Profile Photo
 
@@ -48,8 +48,8 @@ Axios
 
 ## Welcome Page
 
-![聊天](https://gitee.com/nwafu-ggboy/online_chat/raw/master/img/%E8%81%8A%E5%A4%A9.png)
+![聊天](welcome.png)
 
 ## Chat Page
 
-![聊天](https://gitee.com/nwafu-ggboy/online_chat/raw/master/img/%E8%81%8A%E5%A4%A9.png)
+![聊天](chat.png)
