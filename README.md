@@ -40,11 +40,7 @@ Axios
 
 ## Register Page
 
-<img src="img/register" alt="ttd">
-
-## Choose Profile Photo
-
-![头像](https://gitee.com/nwafu-ggboy/online_chat/raw/master/img/%E5%A4%B4%E5%83%8F%E9%80%89%E6%8B%A9.png)
+<img src="img/register.png" alt="ttd">
 
 ## Welcome Page
 
