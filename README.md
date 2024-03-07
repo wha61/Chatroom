@@ -36,11 +36,11 @@ Axios
 
 ## Login page
 
-![登录](login.png)
+<img src="/login.png" alt="ttd">
 
 ## Register Page
 
-![注册](register.png)
+<img src="/register" alt="ttd">
 
 ## Choose Profile Photo
 
@@ -48,8 +48,8 @@ Axios
 
 ## Welcome Page
 
-![聊天](welcome.png)
+<img src="/welcome.png" alt="ttd">
 
 ## Chat Page
 
-![聊天](chat.png)
+<img src="/chat.png" alt="ttd">
