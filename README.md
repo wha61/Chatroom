@@ -1,51 +1,55 @@
-# 主要技术栈
+# Main Technical Stack
 
-## 编程语言
+## Programming Language
 
-JavaScript
+JavaScript, SQL
 
-## 前端框架
+## Front-end Framework
 
 React
 
-## 后端框架
+## Back-end Framework
 
 express
 
-## 样式管理
+## Style Management
 
 styled-components
 
-## 密码加密
+## Password Encryption
 
 bcrypt
 
-## token颁发
+## token distribution
 
-jwt非对称加密
+jwt asymmetric encryption
 
-## 实时消息传递
+## Realtime message transmission
 
 socket.io-client
 
-## HTTP 工具 
+## HTTP tools
 
 Axios
 
-# 项目展示
+# Project Demo
 
-## 登录界面
+## Login page
 
 ![登录](https://gitee.com/nwafu-ggboy/online_chat/raw/master/img/%E7%99%BB%E5%BD%95.png)
 
-## 注册界面
+## Register Page
 
 ![注册](https://gitee.com/nwafu-ggboy/online_chat/raw/master/img/%E6%B3%A8%E5%86%8C.png)
 
-## 头像选择
+## Choose Profile Photo
 
 ![头像](https://gitee.com/nwafu-ggboy/online_chat/raw/master/img/%E5%A4%B4%E5%83%8F%E9%80%89%E6%8B%A9.png)
 
-## 聊天界面
+## Welcome Page
+
+![聊天](https://gitee.com/nwafu-ggboy/online_chat/raw/master/img/%E8%81%8A%E5%A4%A9.png)
+
+## Chat Page
 
 ![聊天](https://gitee.com/nwafu-ggboy/online_chat/raw/master/img/%E8%81%8A%E5%A4%A9.png)
